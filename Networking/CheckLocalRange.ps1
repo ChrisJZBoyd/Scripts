@@ -1,0 +1,2 @@
+ipconfig -Properties ipv4
+
