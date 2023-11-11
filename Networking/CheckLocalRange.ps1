@@ -1,0 +1,3 @@
+$networkrange = 
+
+#Requires -Module ActiveDirectory
