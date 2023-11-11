@@ -1,2 +1,3 @@
-ipconfig -Properties ipv4
+$networkrange = 
 
+#Requires -Module ActiveDirectory
